@@ -1,2 +1,2 @@
 # arabidopsis-root-snrna
-Reproduction of cell-type-specific camalexin biosynthesis gene induction in Arabidopsis roots upon Ralstonia solanacearum infection. Scanpy pipeline for snRNA-seq QC, clustering, annotation, and differential expression analysis. Demonstrates single-cell resolution of plant immune responses in root maturation zones.
+Reproducing the cell-type-specific expression analysis pipeline from Yang et al. 2025 using the Shahan Arabidopsis root atlas
